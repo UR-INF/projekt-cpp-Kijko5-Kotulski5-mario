@@ -1,6 +1,21 @@
 <p><b>Mario C++ - Maciej Kijko & Marek Kotulski</b></p>
+
+<h1>Założenia projektu</h1>
+<p>
+  1. Możliwość biegania postacią w lewo i w prawo
+  2. Możliwość skakania z saltami
+  3. Możliwość zbierania monet
+  4. Liczenie punktów
+  5. Ograniczenie czasowe 
+  6. Pokonywanie przeciwników poprzez naskok lub strzelaniem gdy postać jest w odpowiedniej formie
+  7. Możliwość zbierania przedmiotów (grzyby, kwiatki, gwiazdki) które zmieniają forme postaci
+  8. Wierne odwzorowanie mechaniki i estetyki z oryginalnej werji Mario
+</p>
+
 <h1>Wstęp</h1>
-Gra przeznaczona dla PC. Jest wiernym odwzorowaniem pierwszego poziomu klasycznej wersji Mario.
+Gra przeznaczona dla PC.
+
+
 
 <h1>Środowisko</h1>
 Gra została napisana w "czystym" C++ w oparciu o bibliotekę wejścia/wyjścia - SDL2.
