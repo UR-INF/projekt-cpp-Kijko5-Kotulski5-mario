@@ -33,5 +33,5 @@ naszego protagonistę przy każdym skoku.
 Zrzuty ekranu z gry
 ![image_info](img/1.png)
 ![image_info](img/2.png)
-![image_info](img/3.png)
+![image_info](img/5.png)
 ![image_info](img/4.png)
